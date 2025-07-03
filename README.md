@@ -1,1 +1,1 @@
-# Outside of Chapman University, my open source work is done on GitLab: [see our top level GitLab](https://gitlab.com/Crypteriat). For class and testnet work, plese go to: [Chapman Testnet](https://github.com/jeffrey-l-turner/Chapman_testnet).
+# Outside of Chapman University & F1r3fly.io, most of my open source work is done on GitLab: [see our top level GitLab](https://gitlab.com/Crypteriat). For class and testnet work, plese go to: [Chapman Testnet](https://github.com/jeffrey-l-turner/Chapman_testnet).
